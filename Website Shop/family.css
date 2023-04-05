@@ -1,0 +1,20 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+table{
+    border: 2px solid yellow;
+}
+thead th{
+    border: 2px solid red;
+    background-color: blue;
+    color: black;
+    padding: 20px;
+}
+caption{
+    
+    border: 2px solid;
+    background-color: yellow;
+}
